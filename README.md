@@ -1,3 +1,3 @@
 # TestGit
 
-## This is my first time exploring GitHub
+## This is Bidisha, my first time exploring GitHub
